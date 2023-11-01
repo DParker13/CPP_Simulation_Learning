@@ -5,6 +5,18 @@
 #include <iostream>
 using namespace std;
 
+//This is a single line comment
+
+/*
+ This is a multi-line comment
+*/
+
 int main(int argc, char *argv[]) {
-    cout << "Hello World!\n";
+    const int numOne = 1;
+    int numTwo = 2;
+
+    // << is the insertion operator
+    // >> is the extraction operator
+
+    cout << "Hello World!\n" << numOne << "\n" << numTwo;
 }

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/danie/Documents/GitHub/LearningCPP",
-      "program": "c:/Users/danie/Documents/GitHub/LearningCPP/build/Debug/outDebug",
+      "cwd": "c:/Users/danie/Documents/GitHub/CPP_Simulation_Learning",
+      "program": "c:/Users/danie/Documents/GitHub/CPP_Simulation_Learning/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
